@@ -12,4 +12,8 @@ Contributors / Licensing
 
 Generally everything is LICENSE'D under the Apache 2 license by Abram Hindle.
 
+Sources
+========================
+https://www.w3schools.com/python/python_json.asp
+https://www.w3schools.com/js/js_ajax_http_send.asp
 
